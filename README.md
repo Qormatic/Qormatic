@@ -2,13 +2,12 @@
 
 ## About Me
 
-I’m **0xFalconhoof**, a blockchain security researcher and smart contract auditor with over 2 years focused solely on protocol security.  
+I’m **0xFalconhoof**, a blockchain security researcher and smart contract auditor.  
+For over 2 years I’ve focused exclusively on identifying and reporting high-impact vulnerabilities in DeFi protocols.  
+I contribute across top competitive audit platforms and private engagements, with a passion for strengthening protocol security and resilience in the ecosystem.
 
-Before diving into security research, I worked as a **Product Analyst & Designer**, helping companies shape and deliver **tech products** across industries. My first taste of blockchain came over 3 years ago when I joined a company building on-chain rewards programs — I started writing smart contracts there and quickly fell in love with the technology.  
-
-Since then, I’ve designed blockchain products, written Solidity across multiple projects, and eventually discovered auditing. Today, I focus entirely on finding and reporting vulnerabilities in DeFi protocols, contributing across top audit platforms as well as private engagements.  
-
-I’m passionate about keeping protocols secure, improving resilience in the ecosystem, and sharing knowledge through security research.
+I’m always open to collaboration 🤝, a chat about security 💬, or discussing potential private engagements 📩.  
+Feel free to reach out — I love to connect with others in the space 🌍.
 
 # Summary
 
