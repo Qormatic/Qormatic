@@ -1,7 +1,5 @@
 # Hello 👋 I'm 0xFalconhoof — Security Researcher
 
-## About Me
-
 I’m **0xFalconhoof**, a blockchain security researcher and smart contract auditor.  
 For over 2 years I’ve focused exclusively on identifying and reporting high-impact vulnerabilities in DeFi protocols.  
 I contribute across top competitive audit platforms and private engagements, with a passion for strengthening protocol security and resilience in the ecosystem.
