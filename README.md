@@ -1,23 +1,21 @@
 ## Hi there 👋
 
 # About Me
----
 
 Hi 👋 I'm **0xFalconhoof** — a blockchain security researcher and smart contract auditor.  
 I specialize in finding high-impact vulnerabilities in DeFi protocols and have contributed across major competitive audit platforms and private engagements.  
 
-# Summary - 0xFalconhoof
----
+# Summary
 
 | Overall | High risk | Medium risk |
 |:---------:|:-----------:|:-------------:|
 |   59    |    22     |     37      |
 
----
+# Audit Platforms
 
 🥇 Gold (1st place) | 🥈 Silver (2nd place) | 🥉 Bronze (3rd place)
 
-### <img src="https://code4rena.com/favicon.ico" alt="Code4rena" width="20"/> Code4rena
+## <img src="https://code4rena.com/favicon.ico" alt="Code4rena" width="20"/> Code4rena  
 
 | Contest | High risk | Medium risk | Security Report | Ranking | Badge |
 |:-------:|:---------:|:-----------:|:---------------:|:-------:|:-------:|
@@ -36,18 +34,18 @@ I specialize in finding high-impact vulnerabilities in DeFi protocols and have c
 | [SecondSwap](https://code4rena.com/audits/2024-12-secondswap) | -       | 1         | [Report](https://code4rena.com/audits/2024-12-secondswap)        | 27     |
 | [Kinetiq](https://code4rena.com/audits/2025-04-kinetiq) | 1       | 1         | [Report](https://code4rena.com/audits/2025-04-kinetiq)        | 30     |
 
----
+<br>
 
-### <img src="https://camo.githubusercontent.com/0e909f76794e9bfaa4e51b09ccc216c6527dbd0eb7dee6c05871f4541393fd98/68747470733a2f2f7777772e676f6f676c652e636f6d2f73322f66617669636f6e733f737a3d363426646f6d61696e5f75726c3d68747470733a2f2f6175646974732e736865726c6f636b2e78797a2f" alt="Sherlock" width="20"/> Sherlock
+## <img src="https://camo.githubusercontent.com/0e909f76794e9bfaa4e51b09ccc216c6527dbd0eb7dee6c05871f4541393fd98/68747470733a2f2f7777772e676f6f676c652e636f6d2f73322f66617669636f6e733f737a3d363426646f6d61696e5f75726c3d68747470733a2f2f6175646974732e736865726c6f636b2e78797a2f" alt="Sherlock" width="20"/> Sherlock
 
 | Contest | High risk | Medium risk | Security Report | Ranking | Badge |
 |:-------:|:---------:|:-----------:|:---------------:|:-------:|:-----:|
 | [Napier](https://audits.sherlock.xyz/contests/171) | -       | 1         | [Report](https://audits.sherlock.xyz/contests/171/report)        | 8     | ![Top 10](https://img.shields.io/badge/-Top%2010-brightgreen)
 | [Nouns Builder](https://audits.sherlock.xyz/contests/171) | 1       | -         | [Report](https://audits.sherlock.xyz/contests/111/report)        | 9     | ![Top 10](https://img.shields.io/badge/-Top%2010-brightgreen)
 
----
+<br>
 
-### <img src="https://cantina.xyz/favicon.ico" alt="Cantina" width="20"/> Cantina
+## <img src="https://cantina.xyz/favicon.ico" alt="Cantina" width="20"/> Cantina
 
 | Contest | High risk | Medium risk | Security Report | Ranking |
 |:-------:|:---------:|:-----------:|:---------------:|:-------:|
@@ -59,9 +57,9 @@ I specialize in finding high-impact vulnerabilities in DeFi protocols and have c
 | [liquidity-book-vaults](https://cantina.xyz/code/076935b1-2706-48c6-bf0a-b3656aa24194/overview) | -       | 1         | [Report](https://cantina.xyz/code/076935b1-2706-48c6-bf0a-b3656aa24194)       | 76     |
 | [badger-ebtc-bsm](https://cantina.xyz/code/f57ffb47-0ded-4f04-bcec-ecd7d47fad58/overview) | 1       | -         | [Report](https://cantina.xyz/code/f57ffb47-0ded-4f04-bcec-ecd7d47fad58)       | 31     |
 
----
+<br>
 
-### <img src="https://codehawks.com/favicon.ico" alt="CodeHawks" width="20"/> CodeHawks
+## <img src="https://codehawks.com/favicon.ico" alt="CodeHawks" width="20"/> CodeHawks
 
 | Contest | High risk | Medium risk | Low Risk | Security Report | Ranking |
 |:-------:|:---------:|:-----------:|:--------:|:---------------:|:-------:|
@@ -71,14 +69,11 @@ I specialize in finding high-impact vulnerabilities in DeFi protocols and have c
 | [Sparkn](https://codehawks.cyfrin.io/contests/cllcnja1h0001lc08z7w0orxx) | -      | 1         |  2       | [Report](https://codehawks.cyfrin.io/c/2023-08-sparkn/results?lt=contest&page=1&sc=reward&sj=reward&t=report)        | 52     |
 | [Defi Stablecoin](https://codehawks.cyfrin.io/contests/cljx3b9390009liqwuedkn0m0) | -       | -         |  1       | [Report](https://codehawks.cyfrin.io/c/2023-07-foundry-defi-stablecoin/results?lt=contest&page=1&sc=reward&sj=reward&t=report)        | 131     |
 
+<br>
 
-
----
-
-### ![Private Icon](https://via.placeholder.com/20) Private Audits
+# 🛡️ Private Audits
 
 | Contest | High risk | Medium risk | Security Report | Ranking |
 |---------|-----------|-------------|-----------------|---------|
 | TBD     | TBD       | TBD         | [link]()        | TBD     |
 
----
