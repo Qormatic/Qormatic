@@ -45,6 +45,7 @@ Feel free to reach out — I love to connect with others in the space 🌍.
 |:-------:|:---------:|:-----------:|:---------------:|:-------:|:-----:|
 | [Napier](https://audits.sherlock.xyz/contests/171) | -       | 1         | [Report](https://audits.sherlock.xyz/contests/171/report)        | 8     | ![Top 10](https://img.shields.io/badge/-Top%2010-brightgreen)
 | [Nouns Builder](https://audits.sherlock.xyz/contests/171) | 1       | -         | [Report](https://audits.sherlock.xyz/contests/111/report)        | 9     | ![Top 10](https://img.shields.io/badge/-Top%2010-brightgreen)
+|  | 1       | 1         |        |      |
 
 <br>
 
@@ -59,6 +60,7 @@ Feel free to reach out — I love to connect with others in the space 🌍.
 | [alchemix-v3](https://cantina.xyz/code/e68909e6-3491-4a94-a707-ecf0c89cf72a/overview) | 8       | 1         | [Report](https://cantina.xyz/code/e68909e6-3491-4a94-a707-ecf0c89cf72a)       | 24     |
 | [liquidity-book-vaults](https://cantina.xyz/code/076935b1-2706-48c6-bf0a-b3656aa24194/overview) | -       | 1         | [Report](https://cantina.xyz/code/076935b1-2706-48c6-bf0a-b3656aa24194)       | 76     |
 | [badger-ebtc-bsm](https://cantina.xyz/code/f57ffb47-0ded-4f04-bcec-ecd7d47fad58/overview) | 1       | -         | [Report](https://cantina.xyz/code/f57ffb47-0ded-4f04-bcec-ecd7d47fad58)       | 31     |
+| Total | 11       | 6     |       |      |
 
 <br>
 
@@ -71,6 +73,7 @@ Feel free to reach out — I love to connect with others in the space 🌍.
 | [DittoETH](https://codehawks.cyfrin.io/contests/clm871gl00001mp081mzjdlwc) | -       | -         |  1       | [Report](https://codehawks.cyfrin.io/c/2023-09-ditto/results?lt=contest&page=1&sc=reward&sj=reward&t=report)        | 45     |
 | [Sparkn](https://codehawks.cyfrin.io/contests/cllcnja1h0001lc08z7w0orxx) | -      | 1         |  2       | [Report](https://codehawks.cyfrin.io/c/2023-08-sparkn/results?lt=contest&page=1&sc=reward&sj=reward&t=report)        | 52     |
 | [Defi Stablecoin](https://codehawks.cyfrin.io/contests/cljx3b9390009liqwuedkn0m0) | -       | -         |  1       | [Report](https://codehawks.cyfrin.io/c/2023-07-foundry-defi-stablecoin/results?lt=contest&page=1&sc=reward&sj=reward&t=report)        | 131     |
+| Total | 1       | 2         |        |      |
 
 <br>
 
