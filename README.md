@@ -36,6 +36,8 @@ Feel free to reach out — I love to connect with others in the space 🌍.
 | [SecondSwap](https://code4rena.com/audits/2024-12-secondswap) | -       | 1         | [Report](https://code4rena.com/audits/2024-12-secondswap)        | 27     |
 | [Kinetiq](https://code4rena.com/audits/2025-04-kinetiq) | 1       | 1         | [Report](https://code4rena.com/audits/2025-04-kinetiq)        | 30     |
 
+| Total | 1       | 1         |         |      |
+
 <br>
 
 ## <img src="https://camo.githubusercontent.com/0e909f76794e9bfaa4e51b09ccc216c6527dbd0eb7dee6c05871f4541393fd98/68747470733a2f2f7777772e676f6f676c652e636f6d2f73322f66617669636f6e733f737a3d363426646f6d61696e5f75726c3d68747470733a2f2f6175646974732e736865726c6f636b2e78797a2f" alt="Sherlock" width="20"/> Sherlock
