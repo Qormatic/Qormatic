@@ -35,8 +35,7 @@ Feel free to reach out — I love to connect with others in the space 🌍.
 | [Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild) | -      | 1         | [Report](https://code4rena.com/audits/2023-12-ethereum-credit-guild)        | 59     |
 | [SecondSwap](https://code4rena.com/audits/2024-12-secondswap) | -       | 1         | [Report](https://code4rena.com/audits/2024-12-secondswap)        | 27     |
 | [Kinetiq](https://code4rena.com/audits/2025-04-kinetiq) | 1       | 1         | [Report](https://code4rena.com/audits/2025-04-kinetiq)        | 30     |
-
-| Total | 1       | 1         |         |      |
+| Total | 15       | 23        |         |      |
 
 <br>
 
