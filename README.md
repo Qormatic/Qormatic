@@ -45,7 +45,7 @@ Feel free to reach out — I love to connect with others in the space 🌍.
 |:-------:|:---------:|:-----------:|:---------------:|:-------:|:-----:|
 | [Napier](https://audits.sherlock.xyz/contests/171) | -       | 1         | [Report](https://audits.sherlock.xyz/contests/171/report)        | 8     | ![Top 10](https://img.shields.io/badge/-Top%2010-brightgreen)
 | [Nouns Builder](https://audits.sherlock.xyz/contests/171) | 1       | -         | [Report](https://audits.sherlock.xyz/contests/111/report)        | 9     | ![Top 10](https://img.shields.io/badge/-Top%2010-brightgreen)
-|  | 1       | 1         |        |      |
+| Total | 1       | 1         |        |      |
 
 <br>
 
